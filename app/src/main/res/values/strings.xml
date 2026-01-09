@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="str_spend_smarter">Spend Smarter\nSave More</string>
+    <string name="str_get_started">Get Started</string>
+    <string name="str_alredy_have_account">Already have account?</string>
+    <string name="str_login">" Log In"</string>
+    <string name="str_expense_tracker">Expense Tracker</string>
+    <string name="str_sign_up">Sign Up</string>
+    <string name="str_signup_msg">Take Control of Your Expenses — Join Now!</string>
+</resources>
